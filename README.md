@@ -12,3 +12,6 @@
   + Meltdown [(PDF)](https://arxiv.org/pdf/1801.01207.pdf)
   + A Systematic Evaluation of Transient Execution Attacks and Defenses [(PDF)](https://www.usenix.org/system/files/sec19-canella.pdf)
   + The Evolution of Transient-Execution Attacks [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3386263.3407583)
+
++) Proceedings of the LInux Symposium
+  + kvm
