@@ -9,6 +9,7 @@
   + POSTER: A Covert Channel Construction in a Virtualized Environment [(PDF)](https://dl.acm.org/doi/pdf/10.1145/2382196.2382318)
   + Memory Deduplication as a Threat to the Guest OS [(PDF)](https://dl.acm.org/doi/pdf/10.1145/1972551.1972552)
   + Breaking KASLR Using Memory Deduplication in Virtualized Environments [(PDF)](https://www.mdpi.com/2079-9292/10/17/2174)
+  + Software Side Channel Attack on Memory Deduplication
 
 + Transient execution attack
   + Meltdown [(PDF)](https://arxiv.org/pdf/1801.01207.pdf)
