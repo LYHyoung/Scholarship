@@ -3,6 +3,7 @@
 ----------
 + Cache side-channel attack
   + FLUSH+RELOAD: a High Resolution, Low Noise, L3 Cache Side-Channel Attack [(PDF)](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-yarom.pdf)
+  + FLUSH+FLUSH: A Fast and Stealthy Cache Attack [(PDF)](https://arxiv.org/pdf/1511.04594.pdf)
 
 + Memory Deduplication
   + Inferring Firewall Rules by Cache Side-channel Analysis in Network Function Virtualization [(PDF)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9155449)
