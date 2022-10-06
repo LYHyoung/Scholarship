@@ -21,5 +21,10 @@
   + A Systematic Evaluation of Transient Execution Attacks and Defenses [(PDF)](https://www.usenix.org/system/files/sec19-canella.pdf)
   + The Evolution of Transient-Execution Attacks [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3386263.3407583)
 
++ Serverless
+  + Memory Deduplication for Serverless Computing with Medes. 
+    + In Proceedings of the Seventeenth European Conference on Computer Systems![image](https://user-images.githubusercontent.com/37611500/194210169-137729f5-887c-47b0-8a13-db50c4804275.png)
+
+
 +) Proceedings of the LInux Symposium
   + kvm
