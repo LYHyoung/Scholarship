@@ -22,7 +22,7 @@
   + The Evolution of Transient-Execution Attacks [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3386263.3407583)
 
 + Serverless
-  + Memory Deduplication for Serverless Computing with Medes. 
+  + Memory Deduplication for Serverless Computing with Medes. [(PDF)](https://dl.acm.org/doi/abs/10.1145/3492321.3524272)
     + In Proceedings of the Seventeenth European Conference on Computer Systems
 
 
