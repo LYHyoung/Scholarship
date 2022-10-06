@@ -26,5 +26,5 @@
     + In Proceedings of the Seventeenth European Conference on Computer Systems
 
 
-+) Proceedings of the LInux Symposium
++ Proceedings of the LInux Symposium
   + kvm
